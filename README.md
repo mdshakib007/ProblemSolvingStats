@@ -21,7 +21,7 @@ This not only helps me maintain a record but also motivates me to keep growing c
 | LightOJ | [mdshakib00777](https://lightoj.com/user/mdshakib00777) | 3 | | 
 | Others | | 50+ | |
 | Total | | 1,476 | |
-> `Last Update: April 28, 2025`
+> `Last Update: May 28, 2025`
 
 ----------
 
